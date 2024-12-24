@@ -1,3 +1,5 @@
+# Map Overlays
+
 Project for CS 290: Computational Geometry. This project implements key subroutines for an $O((n+k) \log n)$-time segment intersection algorithm and an algorithm to compute the overlay of two planar subdivisions, represented as doubly-connected edge lists (DCELs).
 
 ## Figures
