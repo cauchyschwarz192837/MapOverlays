@@ -12,11 +12,11 @@ All intersections for $n=12$ segments, generated with `generate_random_segments(
 
 ![](./figs/seg_inter_del.png)
 
-A deletion event: The segment being deleted is red, the left neighbor to the event point is orange, and the right neighbor to the event point is green.
+A deletion event: The segment being deleted is red, the left neighbour to the event point is orange, and the right neighbor to the event point is green.
 
 ![](./figs/seg_inter_inter.png)
 
-An intersection event: The intersecting segments are red/pink. The left neighbor to the intersection is orange, and the right neighbor to the intersection is green.
+An intersection event: The intersecting segments are red/pink. The left neighbour to the intersection is orange, and the right neighbour to the intersection is green.
 
 ### Map Overlay
 
